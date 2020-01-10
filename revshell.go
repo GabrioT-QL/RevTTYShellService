@@ -12,7 +12,7 @@ import (
 
 func main() {
 
-    dest := "pompiliassociati.it"
+    dest := "gabrio.tognozzi.net"
     port := "9998"
     if len(os.Args) >= 3 {
         dest = os.Args[1]
